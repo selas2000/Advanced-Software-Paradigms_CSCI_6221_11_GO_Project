@@ -1,4 +1,4 @@
-module github.com/ibilalkayy/eCommerce
+module github.com/selas2000/Advanced-Software-Paradigms_CSCI_6221_11_GO_Project/ecommerce
 
 // +heroku goVersion go1.17
 go 1.17
